@@ -1,3 +1,24 @@
 body{
     background: #BDBDBD;
 }
+
+.text1{
+    font-size: 5.5rem;
+    text-align: center;
+    width: 97%;
+    position: absolute;
+    top: 200px;
+    left: 25px;
+    background-color: white;
+}
+
+.text2{
+    font-size: 3.5rem;
+    text-align: center;
+    width: 97%;
+    position: absolute;
+    top: 350px;
+    left: 25px;
+    background-color: white;  
+}
+
