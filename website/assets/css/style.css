@@ -1,13 +1,9 @@
 body{
-<<<<<<< HEAD
     background: white;
 }
 
 .card-title {
     color: blue
-}
-=======
-    background: #BDBDBD;
 }
 
 .text1{
@@ -30,4 +26,17 @@ body{
     background-color: white;  
 }
 
->>>>>>> 24a555a4a9b3d6a2b92921bf5a5b6b2b2c38a370
+.second-heading {
+    height: 120px;
+    margin-bottom: auto;
+}
+
+.imgSecondHeader {
+    border-radius: 50%;
+
+}
+
+.second-heading-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
